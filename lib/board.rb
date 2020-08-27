@@ -1,1 +1,1 @@
-board = "row"
+board = "board"
